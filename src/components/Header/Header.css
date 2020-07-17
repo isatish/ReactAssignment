@@ -1,0 +1,33 @@
+.searchInput{
+    background: url("https://img.icons8.com/ios-glyphs/30/000000/search.png") no-repeat scroll 7px 7px;
+    text-indent: 15px;
+    background-size: 20px;
+}
+
+.head-container{
+    background: rgb(229, 236, 233);
+    width: 100%;
+}
+
+.customSearch { position: relative; }
+
+.customSearch input { 
+    border:none; 
+    background:#fff; 
+    display:block; 
+    width: 90% !important; 
+    box-sizing: border-box;
+    text-indent: 25px;
+ }
+
+.customSearch-img-left { 
+    position: absolute; 
+    top: 12px; 
+    left:7% 
+}
+
+.customSearch-img-right { 
+    position: absolute; 
+    top: 12px; 
+    right: 7%;
+}
